@@ -21,8 +21,7 @@ const tanzaniaCities = [
   { name: 'Songea', region: 'Ruvuma' },
   { name: 'Lindi', region: 'Lindi' },
   { name: 'Mtwara', region: 'Mtwara' },
-  { name: 'Bagamoyo', region: 'Pwani' },
-  { name: 'Kibaha', region: 'Pwani' }
+  { name: 'Pwani', region: 'Pwani' }
 ].sort((a, b) => a.name.localeCompare(b.name));
 
 function LocationDropdown({ value, onChange, required = false }) {

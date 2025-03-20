@@ -66,7 +66,7 @@ const locations = [
   },
   { 
     name: 'Tanga', 
-    image: 'https://www.bramwelsafaris.com/wp-content/uploads/2020/12/Tanga-Region-806x440.jpeg',
+    image: 'https://livanholidays.co.tz/wp-content/uploads/2023/11/2021-10-28-1536x1230.jpg',
     listings: '3 Listings'
   },
   { 
@@ -76,7 +76,7 @@ const locations = [
   },
   { 
     name: 'Pwani', 
-    image: 'https://en.wikipedia.org/wiki/Pwani_Region#/media/File:Overhead_view_of_the_coastal_area_of_Bagamoyo.jpg',
+    image: 'https://real-estate-tanzania.beforward.jp/wp-content/uploads/2024/04/IMG-20240414-WA0067.jpg',
     listings: '3 Listings'
   }
 ];
